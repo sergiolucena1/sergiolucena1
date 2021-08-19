@@ -13,29 +13,29 @@ Student of Internet Systems at Uniesp, framework agnostic, open-minded and fast-
 <table>
   <tbody>
     <tr>
-      <td width="25%" align="center">
+      <td width="33.33%" align="center">
         <span>Javascript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="33.33%" align="center">
         <span>Golang</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/gopher.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="33.33%" align="center">
         <span>Python</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
    </tr>
    <tr>
-      <td width="25%" align="center">
+      <td width="33.33%" align="center">
         <span>React</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td> 
-      <td width="25%" align="center">
+      <td width="33.33%" align="center">
         <span>Postgres</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td> 
-      <td width="25%" align="center">
+      <td width="33.33%" align="center">
         <span>Docker</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
       </td>
